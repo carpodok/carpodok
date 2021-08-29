@@ -6,10 +6,11 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 
 - 🔭 I’m currently working on Android Development with Java.
 
-- 🌱 I’m currently learning React-Native to develop cross platform mobil apps.
+- 🌱 I’m currently learning React-Native to develop cross platform mobile apps.
 
 - 📝 I've Medium account where I publish stories when I learn new things.
-- :iphone: There are 2 mobile apps that I released in Google Play.Their codes and links are available in my GitHub account.
+
+- :iphone: There are 2 mobile apps that I released on Google Play. Their codes and links are available in my GitHub account.
 
 - 📫 How to reach me: cobanalitalha@gmail.com
 
