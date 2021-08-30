@@ -8,7 +8,7 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 
 - 🌱 I’m currently learning React-Native to develop cross platform mobile apps.
 
-- 📝 I've Medium account where I publish stories when I learn new things.
+- 📝 I've Medium account where I publish articles when I learn new things.
 
 - :iphone: There are 2 mobile apps that I released on Google Play. Their codes and links are available in my GitHub account.
 
