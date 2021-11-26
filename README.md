@@ -14,9 +14,44 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 
 - 📫 How to reach me: cobanalitalha@gmail.com
 
-<br>
-
 <hr>
+
+<!--
+
+## What do I know  :question:
+
+### Languages :arrow_heading_down:
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />  &nbsp;&nbsp;&nbsp;&nbsp; :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle:
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="50" />
+ &nbsp;&nbsp;  :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+
+:large_orange_diamond: React.js :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+
+:large_orange_diamond: Python &nbsp; :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+
+### IDE :arrow_heading_down:
+
+:white_check_mark: IntelliJ IDEA
+
+:white_check_mark: Android Studio
+
+:white_check_mark: VS Code
+
+:white_check_mark: PyCharm
+
+
+
+
+-->
+
+
+
+
+
+
 
 :mag_right: Let's check  my social accounts to contact me ;
 
