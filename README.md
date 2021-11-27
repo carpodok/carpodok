@@ -2,9 +2,9 @@
 
 I'm a computer engineering student who wants to improve and be successful in Mobile Development.
 
-<br>
 
-- 🔭 I’m currently working on Android Development with Java.
+
+- 🔭 I’m currently working on Android Development with Java and Kotlin.
 
 - 🌱 I’m currently learning React-Native  and  Python.
 
@@ -14,38 +14,34 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 
 - 📫 How to reach me: cobanalitalha@gmail.com
 
-<hr>
 
-<!--
+
 
 ## What do I know  :question:
 
 ### Languages :arrow_heading_down:
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />  &nbsp;&nbsp;&nbsp;&nbsp; :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />  &nbsp;&nbsp;&nbsp;&nbsp; :large_blue_circle: :large_blue_circle::large_blue_circle: :large_blue_circle: :white_circle:
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="50" />
- &nbsp;&nbsp;  :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="50" />  &nbsp;&nbsp;&nbsp;  :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle:
 
-:large_orange_diamond: React.js :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
 
-:large_orange_diamond: Python &nbsp; :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50"/> &nbsp;&nbsp;  :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50"/> &nbsp;&nbsp;  :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+
 
 ### IDE :arrow_heading_down:
 
-:white_check_mark: IntelliJ IDEA
+:white_check_mark: `IntelliJ IDEA`
 
-:white_check_mark: Android Studio
+:white_check_mark: `Android Studio`
 
-:white_check_mark: VS Code
+:white_check_mark: `VS Code`
 
-:white_check_mark: PyCharm
-
-
-
-
--->
+:white_check_mark: `PyCharm`
 
 
 
@@ -53,7 +49,12 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 
 
 
-:mag_right: Let's check  my social accounts to contact me ;
+
+
+
+
+
+## :mag_right: Let's check  my social accounts to contact me 
 
 
 <a href="https://alitalhacoban.medium.com/"><img src="https://user-images.githubusercontent.com/64840495/131394736-53560497-2ece-4339-a2dc-1f723f605cf0.jpeg"   height="35" >  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
