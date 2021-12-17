@@ -6,7 +6,7 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 
 - 🔭 I’m currently working on Android Development with Java and Kotlin.
 
-- 🌱 I’m currently learning React-Native  and  Python.
+<!-- - 🌱 I’m currently learning React-Native  and  Python. -->
 
 - 📝 I've Medium account where I publish articles when I learn new things.
 
