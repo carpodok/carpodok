@@ -24,7 +24,7 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />  &nbsp;&nbsp;&nbsp;&nbsp; :large_blue_circle: :large_blue_circle::large_blue_circle: :large_blue_circle: :white_circle:
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="50" />  &nbsp;&nbsp;&nbsp;  :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" />  &nbsp;&nbsp;&nbsp;  :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle:
 
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/> &nbsp;&nbsp;  :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
