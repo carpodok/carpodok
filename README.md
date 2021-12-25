@@ -15,8 +15,6 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 - 📫 How to reach me: cobanalitalha@gmail.com
 
 
-
-
 ## What do I know  :question:
 
 ### Languages :arrow_heading_down:
