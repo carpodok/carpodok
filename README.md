@@ -6,7 +6,7 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 
 - 🔭 I’m currently working on Android Development with Java and Kotlin.
 
- - 🌱 I’m currently learning Flutter to write  cross-platforms mobile apps and in addition I'm learning up-to-date technologies such as Jetpack Compose in the mobile industry
+- 🌱 I'm currently learning up-to-date technologies in android development such as Jetpack libraries
 
 - 📝 I've Medium account where I publish articles when I learn new things.
 
@@ -25,7 +25,7 @@ I'm a computer engineering student who wants to improve and be successful in Mob
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" />  &nbsp;&nbsp;&nbsp;  :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle:
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/> &nbsp;&nbsp;  :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/> &nbsp;&nbsp;  :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: -->
 
 
 ### IDE :arrow_heading_down:
