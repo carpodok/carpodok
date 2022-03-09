@@ -41,7 +41,7 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 
 
 
-## :mag_right: Let's check  my social accounts to contact me 
+## :point_down: Contacts :point_down: 
 
 
 <a href="https://alitalhacoban.medium.com/"><img src="https://user-images.githubusercontent.com/64840495/131394736-53560497-2ece-4339-a2dc-1f723f605cf0.jpeg"   height="35" >  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
