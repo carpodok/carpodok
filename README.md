@@ -37,13 +37,7 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 :white_check_mark: `VS Code`
 
 
-
-
-
-
-
-
-
+![snake svg](https://github.com/carpodok/carpodok/blob/output/github-contribution-grid-snake.svg)
 
 
 
