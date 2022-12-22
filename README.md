@@ -24,9 +24,11 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" /> &nbsp; Kotlin &nbsp;&nbsp;&nbsp;  :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle:
 
+ <img src="https://user-images.githubusercontent.com/64840495/209082245-370a3b10-fb41-4795-8cb5-3cf58b48932f.png" height="50" /> &nbsp; Dart &nbsp;&nbsp;&nbsp; :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" /> &nbsp; Java  &nbsp;&nbsp;&nbsp;&nbsp; :large_blue_circle: :large_blue_circle::large_blue_circle: :white_circle: :white_circle:
 
- <img src="https://user-images.githubusercontent.com/64840495/209082245-370a3b10-fb41-4795-8cb5-3cf58b48932f.png" height="50" /> &nbsp; Dart &nbsp;&nbsp;&nbsp; :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+
 
 <br>
 
