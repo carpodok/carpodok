@@ -4,36 +4,34 @@ I'm a computer engineering student who wants to improve and be successful in Mob
 
 
 
-- 🔭 I’m currently working on Android Development with Java and Kotlin.
+- 🔭 I’m currently working on Mobile Application Development with  Kotlin and Flutter.
 
 - 🌱 I'm currently learning up-to-date technologies in android development such as Jetpack libraries
 
 - 📝 I've Medium account where I publish articles when I learn new things.
-
-- :iphone: There are 2 mobile apps that I released on Google Play. Their codes and links are available in my GitHub account.
 
 - 📫 How to reach me: cobanalitalha@gmail.com
 
 
 ## What do I know  :question:
 
-### Languages :arrow_heading_down:
+### Languages & Frameworks 
 
 
+  <img src="https://user-images.githubusercontent.com/64840495/209083012-59a8d5c2-7dd1-448e-85d8-ed199dcd3f54.png" height="50"/> &nbsp; Jetpack Compose &nbsp;&nbsp;  :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/> &nbsp; Flutter  &nbsp;&nbsp;&nbsp;  :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" /> &nbsp; Kotlin &nbsp;&nbsp;&nbsp;  :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" /> &nbsp; Java  &nbsp;&nbsp;&nbsp;&nbsp; :large_blue_circle: :large_blue_circle::large_blue_circle: :white_circle: :white_circle:
+
+ <img src="https://user-images.githubusercontent.com/64840495/209082245-370a3b10-fb41-4795-8cb5-3cf58b48932f.png" height="50" /> &nbsp; Dart &nbsp;&nbsp;&nbsp; :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
+
+<br>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />  &nbsp;&nbsp;&nbsp;&nbsp; :large_blue_circle: :large_blue_circle::large_blue_circle: :large_blue_circle: :white_circle:
-
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" />  &nbsp;&nbsp;&nbsp;  :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle:
- 
- <img src="https://user-images.githubusercontent.com/64840495/176722138-4d73083d-3fae-4be8-a53a-63f823763467.png" height="50" />  &nbsp;&nbsp;&nbsp;&nbsp; :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:
-
-
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/> &nbsp;&nbsp;  :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: -->
-
-
-### IDE :arrow_heading_down:
+### IDE 
 
 :white_check_mark: `IntelliJ IDEA`
 
