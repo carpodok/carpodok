@@ -1,9 +1,10 @@
-<!---<p align="center">
-  <img src="https://media.giphy.com/media/iGGkp9dJfMelvlb4cB/giphy.gif" height="400"/>
+<h1 align="center">Hi , I'm Ali Talha ÇOBAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Android+Developer;Computer+Engineer;Open+to+work+:);Content+Writer+at+Medium;Always+learning+new+things"></a>
 </p>
 
--->
-
+<br>
 
 ```yaml
 name: Ali Talha Çoban
@@ -34,11 +35,13 @@ hobbies: ["Gaming", "Jogging", "Guitar","Table Tennis"]
 reach_me: cobanalitalha@gmail.com
 ```
 
+<br><br>
 
 
-
+<div align="center">
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
+  <div class="contact-icons">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
 <img src="https://github.com/carpodok/carpodok/assets/64840495/18a5af21-4b2a-4868-99b1-cd854c57897b" alt="jetpackcompose" width="45" height="45"/>
@@ -50,30 +53,22 @@ reach_me: cobanalitalha@gmail.com
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" alt="sqlit" width="45" height="45"/>
-
+ </div>
 </p>
-
-
-
 
 <br><br>
 
-<div style="display: flex; justify-content: center;">
-    <div style="margin-right: 20px;">
-        <a href="https://github.com/carpodok/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub stats">
-        </a>
-    </div>
-    <div style="margin-left: 20px;">
-        <a href="https://github.com/carpodok/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut" alt="Top Languages">
-        </a>
-    </div>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github" alt="Ali's GitHub stats">
+<br><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut-vertical" alt="Ali's GitHub stats">
+
 </div>
 
 
 <div align="center">
-  <h2>:point_down: Contacts :point_down:</h2>
+  <h2> <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif"  height="30" > Contect with me <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif" height="30" ></h2>
   <div class="contact-icons">
     <a href="https://www.linkedin.com/in/alitalhacoban/">
       <img height="50" src="https://github.com/carpodok/carpodok/assets/64840495/35029cc4-7893-48d7-8960-496b218803a3"/>
