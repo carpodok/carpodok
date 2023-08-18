@@ -1,6 +1,9 @@
-<p align="center">
+<!---<p align="center">
   <img src="https://media.giphy.com/media/iGGkp9dJfMelvlb4cB/giphy.gif" height="400"/>
 </p>
+
+-->
+
 
 ```yaml
 name: Ali Talha Çoban
