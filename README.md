@@ -19,7 +19,7 @@ fields_of_interests:
 technical_background:
   [
     "Intern - Android Developer at OBSS Technology",
-    "Intern - Android Dveloper ar creWin",
+    "Intern - Android Dveloper at creWin",
   ]
   
 currently_learning: ["Jetpack Compose, Pagination in Android, UI Design"]
