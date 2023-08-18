@@ -2,7 +2,9 @@
 
 I'm a computer engineering student who wants to improve and be successful in Mobile Development.
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 - 🔭 I’m currently working on Mobile Application Development with  Kotlin and Flutter.
 
