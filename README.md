@@ -37,22 +37,21 @@ reach_me: cobanalitalha@gmail.com
 
 <br><br>
 
-
 <div align="center">
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <div class="contact-icons">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
-<img src="https://github.com/carpodok/carpodok/assets/64840495/18a5af21-4b2a-4868-99b1-cd854c57897b" alt="jetpackcompose" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" alt="sqlit" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio"  height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" alt="kotlin"  height="45"/>
+<img src="https://github.com/carpodok/carpodok/assets/64840495/debf2dd8-e3e0-4c47-a039-1f9d3fe7af54" alt="jetpackcompose"  height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" alt="intellij"  height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="java"  height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" alt="figma"  height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" alt="flutter"  height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" alt="firebase"  height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" alt="dart"  height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"  height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" alt="sqlit"  height="45"/>
  </div>
 </p>
 
@@ -68,7 +67,7 @@ reach_me: cobanalitalha@gmail.com
 
 
 <div align="center">
-  <h2> <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif"  height="30" > Contect with me <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif" height="30" ></h2>
+  <h2> <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif"  height="30" > Contact with me <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif" height="30" ></h2>
   <div class="contact-icons">
     <a href="https://www.linkedin.com/in/alitalhacoban/">
       <img height="50" src="https://github.com/carpodok/carpodok/assets/64840495/35029cc4-7893-48d7-8960-496b218803a3"/>
