@@ -65,25 +65,23 @@ reach_me: cobanalitalha@gmail.com
 
 </div>
 
-
 <div align="center">
   <h2> <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif"  height="30" > Contact with me <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif" height="30" ></h2>
   <div class="contact-icons">
     <a href="https://www.linkedin.com/in/alitalhacoban/">
-      <img height="50" src="https://github.com/carpodok/carpodok/assets/64840495/35029cc4-7893-48d7-8960-496b218803a3.png"/>
+      <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261714281-3af46c31-315b-41ff-9aff-55e923ac6923.png"/>
     </a>
     <a href="https://alitalhacoban.medium.com/">
-      <img height="50" src="https://github.com/carpodok/carpodok/assets/64840495/5dea5d8d-8da4-4160-83ed-206dad80289c.png"/>
+      <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261712768-d3a0eed1-1d78-4f48-9f77-40956f91886b.png"/>
     </a>
     <a href="https://www.instagram.com/talhalicbn/">
       <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
     <a href="https://discordapp.com/users/7869/">
-      <img height="50" src="https://github.com/carpodok/carpodok/assets/64840495/a50fd0aa-a77c-47f5-accf-756aca61c4c2.png"/>
+      <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261714580-3f4aa9cd-1191-485a-bb56-bf163dfded2c.png"/>
     </a>
   </div>
 </div>
-
 
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/carpodok/github-readme-stats) 
