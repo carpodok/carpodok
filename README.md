@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/iGGkp9dJfMelvlb4cB/giphy.gif" height="400"/>
+</p>
+
 ```yaml
 name: Ali Talha Çoban
 located_in: Aydın, Turkey
@@ -28,6 +32,8 @@ reach_me: cobanalitalha@gmail.com
 ```
 
 
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
@@ -44,31 +50,48 @@ reach_me: cobanalitalha@gmail.com
 
 </p>
 
-<!---## :point_down: Contacts :point_down: 
-
-<a href="https://www.linkedin.com/in/alitalhacoban/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
-<a href="https://alitalhacoban.medium.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
-<a href="https://www.instagram.com/talhalicbn/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
-<a href="https://discordapp.com/users/7869/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
 
 
-<a href="https://alitalhacoban.medium.com/"><img src="https://user-images.githubusercontent.com/64840495/131394736-53560497-2ece-4339-a2dc-1f723f605cf0.jpeg"   height="25" >  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ali-talha-%C3%A7oban-b06286205/"><img src="https://user-images.githubusercontent.com/64840495/131240332-e43862a6-c8ca-493e-bdf9-6623f499e69f.png"   height="25" >  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/talhalicbn/"><img src="https://user-images.githubusercontent.com/64840495/131240318-0f9be8a3-850d-424b-a576-22a812af3587.png"   height="25" >  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discordapp.com/users/7869/"><img src="https://user-images.githubusercontent.com/64840495/131240333-9fc83a78-4300-4e85-bd9b-48b3d1fd33f4.png"   height="25" >  </a>
+
+<br><br>
+
+<div style="display: flex; justify-content: center;">
+    <div style="margin-right: 20px;">
+        <a href="https://github.com/carpodok/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub stats">
+        </a>
+    </div>
+    <div style="margin-left: 20px;">
+        <a href="https://github.com/carpodok/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut" alt="Top Languages">
+        </a>
+    </div>
+</div>
+
+
+<div align="center">
+  <h2>:point_down: Contacts :point_down:</h2>
+  <div class="contact-icons">
+    <a href="https://www.linkedin.com/in/alitalhacoban/">
+      <img height="50" src="https://github.com/carpodok/carpodok/assets/64840495/35029cc4-7893-48d7-8960-496b218803a3"/>
+    </a>
+    <a href="https://alitalhacoban.medium.com/">
+      <img height="50" src="https://github.com/carpodok/carpodok/assets/64840495/5dea5d8d-8da4-4160-83ed-206dad80289c"/>
+    </a>
+    <a href="https://www.instagram.com/talhalicbn/">
+      <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    </a>
+    <a href="https://discordapp.com/users/7869/">
+      <img height="50" src="https://github.com/carpodok/carpodok/assets/64840495/a50fd0aa-a77c-47f5-accf-756aca61c4c2"/>
+    </a>
+  </div>
+</div>
+
+
+<!---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/carpodok/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut)](https://github.com/carpodok/github-readme-stats)
 
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/carpodok/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut)](https://github.com/carpodok/github-readme-stats)
+
