@@ -38,7 +38,7 @@ reach_me: cobanalitalha@gmail.com
 <br><br>
 
 <div align="center">
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> <img src="https://media.giphy.com/media/daUNvsWuU3s8WeLnq3/giphy.gif"  height="30" > &nbsp;Some tools I have used and learned</h2>
 <p align="left">
   <div class="contact-icons">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio"  height="45"/>
