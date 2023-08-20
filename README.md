@@ -6,6 +6,12 @@
 
 <br>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=carpodok&label=Profile%20views&color=0047AB&style=plastic?" alt="carpodok" height=20px, width=160px/> 
+</p>
+
+<br>
+
 ```yaml
 name: Ali Talha Çoban
 located_in: Aydin, Turkey
