@@ -15,13 +15,13 @@
 ```yaml
 name: Ali Talha Çoban
 located_in: Aydin, Turkey
-current_job: Android Developer & Content Writer at Medium
+title: Android Developer | Content Writer @Medium
 education:
   [
     "Self-Taught Developer",
     "Bachelor's in Computer Engineering",
   ]
-company: null
+curr_company: null
 
 fields_of_interests:
   [
