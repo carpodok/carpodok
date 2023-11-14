@@ -57,7 +57,6 @@ reach_me: cobanalitalha@gmail.com
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" alt="firebase"  height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" alt="dart"  height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"  height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" alt="sqlit"  height="45"/>
  </div>
 </p>
 
@@ -68,8 +67,6 @@ reach_me: cobanalitalha@gmail.com
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github" alt="Ali's GitHub stats">
 <br><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut-vertical" alt="Ali's GitHub stats">
-
-</div>
 
 <div align="center">
   <h2> <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif"  height="30" > Contact with me <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif" height="30" ></h2>
@@ -85,6 +82,9 @@ reach_me: cobanalitalha@gmail.com
     </a>
     <a href="https://discordapp.com/users/7869/">
       <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261714580-3f4aa9cd-1191-485a-bb56-bf163dfded2c.png"/>
+    </a>
+	   <a href="https://discordapp.com/users/7869/">
+      <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/282727638-18a346da-3935-4da5-9d72-e0e9d7e1d6b5.png"/>
     </a>
   </div>
 </div>
