@@ -15,7 +15,7 @@
 ```yaml
 name: Ali Talha Çoban
 located_in: Aydin, Turkey
-title: Android Developer | Content Writer @Medium
+title: Software Developer | Content Writer @Medium
 education:
   [
     "Self-Taught Developer",
@@ -25,8 +25,8 @@ curr_company: null
 
 fields_of_interests:
   [
+    "Backend Development",
     "Mobile Development",
-    "UI/UX",
     "Software Architecture",
     "Medium Writer",
   ]
