@@ -44,7 +44,7 @@ reach_me: cobanalitalha@gmail.com
 <br><br>
 
 <div align="center">
-<h2> <img src="https://media.giphy.com/media/daUNvsWuU3s8WeLnq3/giphy.gif"  height="30" > &nbsp;Some tools I have used and learned</h2>
+<h2> &nbsp;Some tools I have used and learned</h2>
 <p align="left">
   <div class="contact-icons">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio"  height="45"/>
@@ -69,7 +69,7 @@ reach_me: cobanalitalha@gmail.com
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut-vertical" alt="Ali's GitHub stats">
 
 <div align="center">
-  <h2> <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif"  height="30" > Contact with me <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif" height="30" ></h2>
+  <h2>  Contact with me </h2>
   <div class="contact-icons">
     <a href="https://www.linkedin.com/in/alitalhacoban/">
       <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261714281-3af46c31-315b-41ff-9aff-55e923ac6923.png"/>
