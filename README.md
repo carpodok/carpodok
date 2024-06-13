@@ -32,6 +32,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Freelance Backend Developer"
     "Intern - Android Developer at OBSS Technology",
     "Intern - Android Dveloper at creWin",
   ]
