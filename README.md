@@ -69,16 +69,6 @@ reach_me: cobanalitalha@gmail.com
 <br><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut-vertical" alt="Ali's GitHub stats">
 
-<div align="center">
-  <h2>  Contact with me </h2>
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alitalhacoban/)
-<a href="https://medium.com/@alitalhacoban">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Medium.png" alt="Medium" width="50" height="50" >
-</a>
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/591689318159089671)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/talhalicbn/)
-
 
 <!--  <div class="contact-icons">
     <a href="https://www.linkedin.com/in/alitalhacoban/">
