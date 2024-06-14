@@ -37,7 +37,7 @@ technical_background:
     "Intern - Android Dveloper at creWin",
   ]
   
-currently_learning: ["Jetpack Compose, Pagination in Android, UI Design"]
+currently_learning: ["WebSocket API, Security mechanisms in Node.js, Error Handling and Logging in Node.js"]
 hobbies: ["Gaming", "Jogging", "Guitar","Table Tennis"]
 reach_me: cobanalitalha@gmail.com
 ```
@@ -45,8 +45,10 @@ reach_me: cobanalitalha@gmail.com
 <br><br>
 
 <div align="center">
-<h2> &nbsp;Some tools I have used and learned</h2>
-<p align="left">
+<h2> &nbsp;Some tools I have used</h2>
+
+ [![My Skills](https://skillicons.dev/icons?i=js,nodejs,vscode,mongodb,express,postman,docker,react,ts,gitlab,git,figma,kotlin,androidstudio,java)](https://skillicons.dev)
+ <!-- <p align="left">
   <div class="contact-icons">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio"  height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" alt="kotlin"  height="45"/>
@@ -59,11 +61,9 @@ reach_me: cobanalitalha@gmail.com
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" alt="dart"  height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"  height="45"/>
  </div>
-</p>
+</p> -->
 
 <br><br>
-
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github" alt="Ali's GitHub stats">
 <br><br><br>
@@ -71,7 +71,16 @@ reach_me: cobanalitalha@gmail.com
 
 <div align="center">
   <h2>  Contact with me </h2>
-  <div class="contact-icons">
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alitalhacoban/)
+<a href="https://medium.com/@alitalhacoban">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Medium.png" alt="Medium" width="50" height="50" >
+</a>
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/591689318159089671)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/talhalicbn/)
+
+
+<!--  <div class="contact-icons">
     <a href="https://www.linkedin.com/in/alitalhacoban/">
       <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261714281-3af46c31-315b-41ff-9aff-55e923ac6923.png"/>
     </a>
@@ -89,11 +98,10 @@ reach_me: cobanalitalha@gmail.com
     </a>
   </div>
 </div>
+-->
 
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/carpodok/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut)](https://github.com/carpodok/github-readme-stats)
 
 -->
-
-
