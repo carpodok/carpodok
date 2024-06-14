@@ -47,7 +47,7 @@ reach_me: cobanalitalha@gmail.com
 <div align="center">
 <h2> &nbsp;Some tools I have used</h2>
 
- [![My Skills](https://skillicons.dev/icons?i=js,nodejs,vscode,mongodb,express,postman,docker,react,ts,gitlab,git,figma,kotlin,androidstudio,java)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,nodejs,vscode,mongodb,express,postman,docker,react,ts,gitlab,git,figma,kotlin,androidstudio,java&perline=8)](https://skillicons.dev)
  <!-- <p align="left">
   <div class="contact-icons">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio"  height="45"/>
