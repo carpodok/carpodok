@@ -28,17 +28,10 @@ fields_of_interests:
     "Backend Development",
     "Mobile Development",
     "Software Architecture",
-    "Medium Writer",
+    "Medium Content Wirting",
   ]
-technical_background:
-  [
-    "Freelance Backend Developer"
-    "Intern - Android Developer at OBSS Technology",
-    "Intern - Android Dveloper at creWin",
-  ]
-  
-currently_learning: ["WebSocket API, Security mechanisms in Node.js, Error Handling and Logging in Node.js"]
-hobbies: ["Gaming", "Jogging", "Guitar","Table Tennis"]
+
+currently_learning: [CI/CD, Micro Services, Security mechanisms in Node.js, Error Handling and Logging in Node.js"]
 reach_me: cobanalitalha@gmail.com
 ```
 
