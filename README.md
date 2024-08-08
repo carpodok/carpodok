@@ -40,7 +40,7 @@ reach_me: cobanalitalha@gmail.com
 <div align="center">
 <h2> &nbsp;The Showcase of My Technical Toolkit</h2>
 
- [![My Skills](https://skillicons.dev/icons?i=js,nodejs,vscode,mongodb,aws,express,postman,docker,react,ts,gitlab,git,figma,kotlin,androidstudio,java&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,nodejs,vscode,mongodb,aws,express,postman,docker,react,ts,gitlab,git,figma,kotlin,androidstudio,java,figma&perline=8)](https://skillicons.dev)
 
 
 <br><br>
