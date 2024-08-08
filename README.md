@@ -40,21 +40,8 @@ reach_me: cobanalitalha@gmail.com
 <div align="center">
 <h2> &nbsp;The Showcase of My Technical Toolkit</h2>
 
- [![My Skills](https://skillicons.dev/icons?i=js,nodejs,vscode,mongodb,express,postman,docker,react,ts,gitlab,git,figma,kotlin,androidstudio,java&perline=8)](https://skillicons.dev)
- <!-- <p align="left">
-  <div class="contact-icons">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio"  height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" alt="kotlin"  height="45"/>
-<img src="https://github.com/carpodok/carpodok/assets/64840495/debf2dd8-e3e0-4c47-a039-1f9d3fe7af54" alt="jetpackcompose"  height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" alt="intellij"  height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" alt="java"  height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" alt="figma"  height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" alt="flutter"  height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" alt="firebase"  height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" alt="dart"  height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"  height="45"/>
- </div>
-</p> -->
+ [![My Skills](https://skillicons.dev/icons?i=js,nodejs,vscode,mongodb,aws,express,postman,docker,react,ts,gitlab,git,figma,kotlin,androidstudio,java&perline=8)](https://skillicons.dev)
+
 
 <br><br>
 
@@ -63,25 +50,7 @@ reach_me: cobanalitalha@gmail.com
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut-vertical" alt="Ali's GitHub stats">
 
 
-<!--  <div class="contact-icons">
-    <a href="https://www.linkedin.com/in/alitalhacoban/">
-      <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261714281-3af46c31-315b-41ff-9aff-55e923ac6923.png"/>
-    </a>
-    <a href="https://alitalhacoban.medium.com/">
-      <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261712768-d3a0eed1-1d78-4f48-9f77-40956f91886b.png"/>
-    </a>
-    <a href="https://www.instagram.com/talhalicbn/">
-      <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-    </a>
-    <a href="https://discordapp.com/users/7869/">
-      <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261714580-3f4aa9cd-1191-485a-bb56-bf163dfded2c.png"/>
-    </a>
-	   <a href="https://play.google.com/store/apps/details?id=com.alitalhacoban.dutchtreat">
-      <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/282727638-18a346da-3935-4da5-9d72-e0e9d7e1d6b5.png"/>
-    </a>
-  </div>
-</div>
--->
+
 
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/carpodok/github-readme-stats) 
