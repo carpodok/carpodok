@@ -32,7 +32,7 @@ fields_of_interests:
   ]
 
 currently_learning: [CI/CD Pipeline, Cloud Computing Services (AWS), RBAC in Node.js"]
-reach_me: cobanalitalha@gmail.com
+contact_me: cobanalitalha@gmail.com
 ```
 
 <br><br>
