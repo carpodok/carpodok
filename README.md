@@ -31,7 +31,7 @@ fields_of_interests:
     "Medium Content Wirting",
   ]
 
-currently_learning: [CI/CD Pipeline, Micro Services, Security mechanisms in Node.js, Error Handling and Logging in Node.js"]
+currently_learning: [CI/CD Pipeline, Cloud Computing Services (AWS), RBAC in Node.js"]
 reach_me: cobanalitalha@gmail.com
 ```
 
