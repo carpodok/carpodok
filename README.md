@@ -15,7 +15,7 @@
 ```yaml
 name: Ali Talha Çoban
 located_in: Aydin, Turkey
-title: Software Developer | Content Writer @Medium
+title: Backend Developer | Content Writer @Medium
 education:
   [
     "Self-Taught Developer",
