@@ -31,7 +31,7 @@ fields_of_interests:
     "Medium Content Wirting",
   ]
 
-currently_learning: [Docker, Cloud Computing Services (AWS), RBAC in Node.js"]
+currently_learning: [Docker, Cloud Computing Services (AWS), RBAC in Node.js, Socket.IO"]
 contact_me: cobanalitalha@gmail.com
 ```
 
