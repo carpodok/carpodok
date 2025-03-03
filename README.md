@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Ali Talha ÇOBAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer;Computer+Engineer;Open+to+work+:);Content+Writer+@Medium;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer;Computer+Engineer;Content+Writer+@Medium;"></a>
 </p>
 
 <br>
@@ -14,14 +14,13 @@
 
 ```yaml
 name: Ali Talha Çoban
-located_in: Aydin, Turkey
+located_in: Ankara, Turkey
 title: Backend Developer | Content Writer @Medium
 education:
   [
-    "Self-Taught Developer",
     "Bachelor's in Computer Engineering",
   ]
-curr_company: null
+curr_company: Ankara BT
 
 fields_of_interests:
   [
@@ -31,7 +30,7 @@ fields_of_interests:
     "Medium Content Wirting",
   ]
 
-currently_learning: [ Cloud Computing Services (AWS), Socket.IO"]
+currently_learning: [ Spring Boot, Kafka, Web Socket"]
 contact_me: cobanalitalha@gmail.com
 ```
 
