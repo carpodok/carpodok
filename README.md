@@ -25,12 +25,10 @@ curr_company: Ankara BT
 fields_of_interests:
   [
     "Backend Development",
-    "Mobile Development",
-    "Software Architecture",
-    "Medium Content Wirting",
+    "Medium Content Writing",
   ]
 
-currently_learning: [ Spring Boot, Kafka, Web Socket"]
+currently_learning: [ Spring Boot, Kafka, gRPC, Microservices Architecture"]
 contact_me: cobanalitalha@gmail.com
 ```
 
