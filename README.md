@@ -20,7 +20,7 @@ education:
   [
     "Bachelor's in Computer Engineering",
   ]
-curr_company: Ankara BT
+curr_company: Ankara Bilgi Teknolojileri
 
 fields_of_interests:
   [
