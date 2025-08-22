@@ -81,9 +81,6 @@ contact_me: cobanalitalha@gmail.com
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut-vertical" alt="Ali's GitHub stats">
 
 
-![snake gif](https://github.com/carpodok/carpodok/blob/output/snake.svg)
-
-
 
 
 <!---
