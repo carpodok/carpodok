@@ -57,9 +57,6 @@ contact_me: cobanalitalha@gmail.com
 ![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
 
-<!-- Frontend -->
-![React](https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=black)
-
 <!-- Languages -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Language-3178C6?logo=typescript&logoColor=white)
