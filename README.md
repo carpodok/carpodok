@@ -21,18 +21,25 @@ located_in: Ankara, Turkey
 title: Backend Developer | Content Writer @Medium
 education:
   [
-    "Bachelor's in Computer Engineering",
+    "Bachelor's in Computer Engineering"
   ]
-curr_company: Ankara Bilgi Teknolojileri
+curr_company: Ankara Bilgi Teknolojileri (Backend Developer)
 
 fields_of_interests:
   [
     "Backend Development",
-    "Medium Content Writing",
+    "Microservices & Distributed Systems",
+    "DevOps & Cloud (Docker, AWS)",
+    "Content Writing & Technical Blogging"
   ]
 
-currently_learning: [ Spring Boot, Kafka, gRPC, Microservices Architecture"]
-contact_me: cobanalitalha@gmail.com
+currently_learning: [ "Spring Boot", "Kafka", "gRPC", "Redis", "Microservices Architecture" ]
+
+contact_me: 
+  email: cobanalitalha@gmail.com
+  linkedin: linkedin.com/in/alitalhacoban
+  medium: medium.com/@alitalhacoban
+  github: github.com/carpodok
 ```
 
 <br><br>
@@ -79,11 +86,18 @@ contact_me: cobanalitalha@gmail.com
 
 <br><br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github" alt="Ali's GitHub stats">
-<br><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut-vertical" alt="Ali's GitHub stats">
+<!-- ===== GitHub Stats ===== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github&hide_title=false&hide_border=true" height="180" alt="Ali's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="180" alt="Top Languages"/>
+</p>
 
+<!-- Streak Card -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=carpodok&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-![snake gif](https://github.com/carpodok/carpodok/blob/output/github-snake-dark.svg)
-
-
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://github.com/carpodok/carpodok/blob/output/github-snake-dark.svg" alt="snake"/>
+</p>
