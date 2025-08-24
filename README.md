@@ -33,7 +33,7 @@ fields_of_interests:
     "Content Writing & Technical Blogging"
   ]
 
-currently_learning: [ "Spring Boot", "Kafka", "gRPC", "Redis", "Microservices Architecture" ]
+currently_learning: [ "Spring Security", "Kafka", "gRPC", "Microservices Architecture" ]
 
 contact_me: 
   email: cobanalitalha@gmail.com
