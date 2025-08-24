@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=39FF14&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer;Computer+Engineer;Content+Writer+@Medium;Open+to+Work+:)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=39FF14&size=25&center=true&vCenter=true&width=800&height=100&lines=Backend+Developer;But+frontend+keeps+haunting+me...;Content+Writer+%40Medium+(debugging+my+thoughts+%F0%9F%93%9D);Open+to+work+%3A);So%2C+pls+hire+me+%F0%9F%99%8F">
   </a>
 </p>
 
@@ -87,10 +87,3 @@ contact_me: cobanalitalha@gmail.com
 ![snake gif](https://github.com/carpodok/carpodok/blob/output/github-snake-dark.svg)
 
 
-
-
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/carpodok/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&size_weight=0.5&count_weight=0.5&langs_count=3&theme=transparent&layout=donut)](https://github.com/carpodok/github-readme-stats)
-
--->
