@@ -86,18 +86,9 @@ contact_me:
 
 <br><br>
 
-<!-- ===== GitHub Stats ===== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carpodok&show_icons=true&theme=transparent&rank_icon=github&hide_title=false&hide_border=true" height="180" alt="Ali's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpodok&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="180" alt="Top Languages"/>
-</p>
 
 <!-- Streak Card -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=carpodok&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/carpodok/carpodok/blob/output/github-snake-dark.svg" alt="snake"/>
-</p>
