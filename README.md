@@ -83,12 +83,3 @@ contact_me:
 ![JWT](https://img.shields.io/badge/JWT-Authentication-purple?logo=jsonwebtokens&logoColor=white)
 
 
-
-<br><br>
-
-
-<!-- Streak Card -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=carpodok&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
-
